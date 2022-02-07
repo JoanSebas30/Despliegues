@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Se incluye el ejercicio 9
+Se añade contenido al ejercicio 9
+=======
 Se incluye otro cambio al ejercicio 9
+>>>>>>> ramaEjercicio9
